@@ -76,10 +76,10 @@ jobs:
         run: |
           cp -f $(find ./assets -type f) ./configs/branding/twilight
           cp -f $(find ./assets/content -type f) ./configs/branding/twilight/content
-          sed -i 's/Zen Browser.app/Rust Browser.app/g' ./configs/macos/mozconfig
+          gsed -i 's/Zen Browser.app/Rust Browser.app/g' ./configs/macos/mozconfig
           cp ./assets/logos/firefox.svg ./src/browser/themes/shared/zen-icons
-          sed -i '' 's/Zen/Rust/g' ./surfer.json
-          sed -i '' 's/Twilight/Browser/g' ./surfer.json  
+          gsed -i '' 's/Zen/Rust/g' ./surfer.json
+          gsed -i '' 's/Twilight/Browser/g' ./surfer.json  
 
       - name: Force usage fo gnu-tar
         run: |
