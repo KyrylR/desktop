@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 255.79986572265625 65" width="767.3995971679688" height="195">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: Comic Shanns;
+        src: url(data:font/woff2;base64,d09GMgABAAAAAAV4AAsAAAAACKwAAAUqAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAAZBEICol8iAMLGAABNgIkAxwEIAWCVgcgG9oGyB6FcbPTRROV71Sm7jg6ws2aTYACqSjiNQp15aoO1ETg39OeukfeRHh4u737u9vZAd92W2J5QnHiARZSWxxmeP0P0B9+/i+nN6fAFjw65LHs691VfAOksak8TiDhNWnxgQXWy4DSTSVH8apYepRShnTODY/97jl2BuChRUuAixMkVgYAObwK2gFQA7Yjzu+LHwcDjdH47n+eO5zFWLgGYDkAAHowEgA0vhQKV7nCIcgchbFjc3bfaiQr1qzXsNFJIQO/MVcctdkqKywPkQpNBVBijQiAPUA3ADYAAkeGwwqBPro72fnZq21shfrAgKBA4w5qlVZI7pOzFds2s2j9foK4TczRxq1U9F0aaKqGDLdQFJwk5tjDm5H12b0y0ot2X32aYFlkZRqvMaattHTtGe2ufXLWZGU91jEIrROvJubcaBosVygqlaYD1q5xPdNiKd0ZdeOtzxgmkm48QJkYxsyyxBwdsvaK14471B3KlTaevL9ffD3mbAVJlbJJjPEcsYJS6ip1kwVCctZLV2oOs8adtGJN+Ip9slXWdSKSunLAdYPUQsPaPdpTKisj28ai7cSceVvc7pPStXuJOVa9/h6jvXcJBd0n3ei1Y59onYyklGuNNP1UQVFCkqm/Y2IYxgygttq5N2tatZ/fddZtY+lO+iYxBxuEpImSbnwacTNn9c6NexrRGSr9FqNikJWVWV3te8FCKS3uG/dSbt5usnpo2Odv4UoaaLCE32jcEEmqNjGMaA1VumKHkFQxpk1Rp5W0cT3LyjdHnFSupGl3tnL9fu+TGop6yxYKauEV3GVMxCsTqlVCLNOOv9aFY19bN9kO5hKadxRKNg3KXjXZlx/6txNWgEyBR32CkyVvnRLpeNt1kakGfKV6yQ+2JVh3gVZaEQH7eIbdy8xab/vlgBeDZpUbtwjb44wPujjYdBFcx3cviZx3n+GfXWzW+2RqShypmuDFlurCA6e4Ed87CXrDGga4LWo/DWnWm2QtKBXei3qjWl8O1VpONIAmX55vC2zPcknXBihik2UoQ/KCQ3M5Dn+w6cHRHe9FBeQXc4qO+f+tzYH/JOXQfaHGoZEVnVUjr9ss5A12j1QXDMTUYPm8S9ZOwUVUGGaCq/vLRklDJRbu1NlXzf/5dZSqU1u1GR4//p2vFngK+3j8bYb6aFxoJGT29+TeoQGQsV4H6bfn4Qpvv95Yd5c1M/K/isp02buMOxzcTNKEO24/5j6YTRzShXvXOC+wNav2ZQgKVlS3RZcHwRGbsEyUherM+HrhxkC9RKdTabAFvGyln6NTqyIE739iQvWETu+sFW1HNneEUs8jWyPp3sGF8KpCVtvqG46nlyo5BqOK046LXnF2vSUScNo4dQ3JN5XZxiRbyDuCXUfA5XdVYZUCrOh26NYwuMw//qHuymeuvc7r1GWB34jS8xfbeu3I+NruYM7LN3uEwz6f1Cj3SKYWrqxHx3BXi2rfdadyJaY/6hJlEFb7/5BPZz39YsJc6xD/K5/AvwAAeEeQ2T22nvnu/89+B2vgLAYAPuyBl2AAKzMot6cnTIGnX4T20wBbwFuYVFFKxYmRQew0ERpwOXEIaoGB5DYq4JXPAm8piA6lYOzdUnDxyFmOrXA10ca8WS9Ail7d2jUq0aZejx6DAhRr1mpYl3oDTJoNGNSuVw+NYIGCWxKnTWdDGrfxCMEhjgWHQDE9utXr1OyIW0YyphlwKByRRIoAHDMRl+Qr6MtIE/e2ycO4f15DVprFcQIAAAA=);
+          }
+    </style>
+    
+  </defs>
+  <g transform="translate(10 10) rotate(0 117.89993286132812 22.5)"><text x="117.89993286132812" y="31.5" font-family="Comic Shanns, Segoe UI Emoji" font-size="36px" fill="#ffffff" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Rust Browser</text></g></svg>

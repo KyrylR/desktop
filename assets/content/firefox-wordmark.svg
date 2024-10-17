@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.199951171875 65" width="297.599853515625" height="195">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: Comic Shanns;
+        src: url(data:font/woff2;base64,d09GMgABAAAAAAN0AAsAAAAABcgAAAMmAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmAAPBEICoRYg3gLDAABNgIkAw4EIAWCVgcgG5kEERWbc8l+JNhuoyqhSjMc6nBF928+fV71/k8yyhhML+TjCJ0Rl2CwvG7tieypeYNK/LRGxN2a0AEFwOQt3fPpBPo4sCjkUc/HszDgfmseRQF3Hkg6sYlpuk1Gh5/oKWEQQyKis+fMAgz1Jb3gwFItHQegSJ+QKQAxhaYJ1PfFDpCOSqym73V6t9keGu0ODAAAuUq1ANxBAFAADABrMCCQLPyhniagy71OBwhg5V13SNdzIiNDDAgAgKuNIr/W4H8PAFhNQfwnDTINDQmbeVURtsgOY6d9d+51UoUG1XOtQshauxFetJFl1F+WpGxZDhkbtT49p756R5yqkoanihIra7Ym7TrhMLaHF1W3dXcV37sXSYPKi7LDBu/te23XOmoll7EaWX7iLElGWmX6bUFRFI2R1q2BF31UYXgfL56x2VC9Q77Bi1hvpBUkhw1PYm4UjezYsHsmOS3l3lRcFdKgOjbs48U9qJdc6j027OFFzTahwbNhn5+4B0MyZNRHX9+rl76rX+PrYzoAhkt3H7bhKuhuS2allZn+Ip4zf3PR1nLXaYMzPZoAv3z3KnNpSnhP/eTy/Se5mA8WhkujZqzg5rgFuWs1AYLjHJKNvJRrcHi0+8GgT9DSRA+r0Vqn39E4/8KdNdvNbASHlNs2n9z7damr/KN9plhmGGtc9+YZlg1Onhc/PgyH9aPySQGZpmHWGW0IDbD393d1pxl6hS5B5hZznSOY5Y8FMp33D7D0td1G9G8bOXgd3hIrL13ZhTZnx6lzA6OZ3GoXNr3GlZ3P2LZaWt+0NWTnsdNmZN5wKaxJM0bJvHDrNbBSrV3pRENacStySxQAAAQAgC8+asRUs+RvFM+8A4DXhvmLYX36ve7tv9t0BtsDwAAUAECAZ+zoOCJ0ty5AYF+UfBWpL6KQhATksY5DBXOQ5sQ9IB0Y62MCGBDWMNXoHoE/JI/CFDc9BsnQHlnucURN50S4hSB7W4Yq6Yt1vZi46Z65OPPmvIZtBTzL+9jqt7ua5q9AQTEoAGO0FFNTiLbN30ARKoOqKGKq+97hB75j3bZP27oJJAmcRw0AAAA=);
+          }
+    </style>
+    
+  </defs>
+  <g transform="translate(10 10) rotate(0 39.5999755859375 22.5)"><text x="39.5999755859375" y="31.5" font-family="Comic Shanns, Segoe UI Emoji" font-size="36px" fill="#000000" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Rust</text></g></svg>
