@@ -134,17 +134,10 @@ jobs:
         if: failure()
         run: sh .github/workflows/src/release-build.sh
 
-      - name: import APPLE DEVELOPER ID CERTIFICATE for .app
-        uses: apple-actions/import-codesign-certs@v3
-        with:
-          p12-file-base64: ${{ secrets.macOS_CERTIFICATES_P12_For_App_BASE64 }}
-          p12-password: ${{ secrets.macOS_CERTIFICATES_P12_PASSWORD }}
-
       - name: Package
         env:
           SURFER_COMPAT: ${{ matrix.arch == 'x64' }}
         run: |
-          export MACOS_APPLE_DEVELOPER_ID="${{ secrets.macOS_AppleDeveloperId }}"
           pnpm package
 
       - name: Rename artifacts
