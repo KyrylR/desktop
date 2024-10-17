@@ -92,12 +92,12 @@ jobs:
 
       - name: Copy assets and modify files
         run: |
-          cp -f $(find ./assets -type f) configs/branding/twilight
-          cp -f $(find ./assets/content -type f) configs/branding/twilight/content
-          sed -i 's/Zen Browser.app/Rust Browser.app/g' configs/macos/mozconfig
-          cp ./assets/logos/firefox.svg src/browser/themes/shared/zen-icons
-          sed -i '' 's/Zen/Rust/g' surfer.json
-          sed -i '' 's/Twilight/Browser/g' surfer.json
+          cp -f $(find ./assets -type f) ./configs/branding/twilight
+          cp -f $(find ./assets/content -type f) ./configs/branding/twilight/content
+          sed -i 's/Zen Browser.app/Rust Browser.app/g' ./configs/macos/mozconfig
+          cp ./assets/logos/firefox.svg ./src/browser/themes/shared/zen-icons
+          sed -i '' 's/Zen/Rust/g' ./surfer.json
+          sed -i '' 's/Twilight/Browser/g' ./surfer.json
 
       - name: Load surfer CI setup
         run: pnpm surfer ci --brand ${{ inputs.release-branch }} --display-version ${{ inputs.build-version }}
